@@ -1,6 +1,6 @@
-# Namespace
+# namespace
 C++標準ライブラリの全ての関数、オブジェクト等が定義された名前空間(namespace)。
-## :rabbit: Namespaceを省略
+## :rabbit: namespaceを省略
 * namespaceに入っている特定の関数のみ使用
 ```C++
 #include "header1.h"
