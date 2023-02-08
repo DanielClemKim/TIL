@@ -5,4 +5,4 @@
 <br>
 
 # C++
-* [Namespaceについて](./C++/namespace.md)
+* [namespaceについて](./C++/namespace.md)
