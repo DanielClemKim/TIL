@@ -25,3 +25,7 @@ int main() {
 ## :rabbit: 名前なしのnamespace
 namespaceの名前を設定しなかった場合、当namespaceに定義されたものは、ファイル内部でしか使えない。<br>
 `static`のような効果
+
+***
+参考書籍<br>
+초보자를 위한 C++ 씹어먹는 C++
