@@ -8,5 +8,4 @@
 * [namespaceについて](./C++/namespace.md)
 
 # Algorithm
-* Greedy
-    + [大数の法則](./algorithm/greedy.md)
+* [Greedy](./algorithm/greedy.md)
