@@ -9,4 +9,4 @@
 
 # Algorithm
 * Greedy
-    + [大数の法則](./algorithm/greedy/largenum.md)
+    + [大数の法則](./algorithm/greedy.md)
