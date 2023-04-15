@@ -135,8 +135,9 @@ while True:
         n = n // k
         count += 1
     else:
+        tmp = n % k
         n -= n % k
-        count += n % k
+        count += tmp
 
 count += (n-1)
 
