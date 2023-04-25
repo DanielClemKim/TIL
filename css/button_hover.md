@@ -6,7 +6,7 @@
 
 `transition`でアニメーション効果が付与できる。
 
-> ただし、`all`を使うのは避ける
+> :heavy_multiplication_x: ただし、`all`を使うのは避ける
 
 <details>
 <summary>
@@ -21,7 +21,7 @@ transition: all 0.2s;
 </p>
 <p>
 
-要素の形や位置に変化を与える時、`transform`を使用する。 ('translate', 'rotate', 'scew', 'scale'等が存在)。
+要素の形や位置に変化を与える時、`transform`を使用する。 ( 'translate', 'rotate', 'scew', 'scale'等が存在 )。
 
 </p>
 
@@ -64,3 +64,17 @@ button:hover {
   cursor: pointer;
 }
 ```
+
+### Result example :arrow_down:
+
+<p>
+
+![hovering](https://user-images.githubusercontent.com/106340297/234332599-70375e1c-4a10-49ca-a507-e52e29fc9393.gif)
+
+</p>
+
+---
+
+**Reference**
+
+1. _The Web Developer Bootcamp 2023_ by Colt Steele (https://www.udemy.com/share/105vzw3@Kh4GMxDaMBSPu6-cHVp-P6QoX0TGwJk0ncMMYSGA45EQ18gOB81K85aSNk2BFu6gew==/)
