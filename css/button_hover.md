@@ -25,7 +25,7 @@ transition: all 0.2s;
 
 </p>
 
-## :rabbit: コード
+## :rabbit: Code
 
 - body element
 
