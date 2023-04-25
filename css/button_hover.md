@@ -25,6 +25,12 @@ transition: all 0.2s;
 
 </p>
 
+<p>
+
+`box-shadow`で影効果を付与できる。影の位置、濃度、サイズ、色を設定。
+
+</p>
+
 ## :rabbit: Code
 
 - body element
