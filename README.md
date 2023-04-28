@@ -12,7 +12,7 @@
 
 # C++
 
-- [namespace について](./C++/namespace.md)
+- [namespace](./C++/namespace.md)
 
 # Algorithm
 
