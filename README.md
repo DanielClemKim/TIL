@@ -6,6 +6,10 @@
 
 <br>
 
+# JavaScript
+
+- [arrow function](./javascript/arrow_func.md)
+
 # CSS
 
 - [button hover](./css/button_hover.md)
