@@ -111,3 +111,9 @@ h1.addEventListener("click", () => {
 > **この文書を作成したすべての原因** :innocent: <br>
 
 `addEventListener`の Callback 関数には this に当イベントリスナーが呼び出された Element がバインディングされるように定義されている。このように、this の値が定まっている Callback 関数の場合、Arrow 関数を使うと既存の値が消え、上位スコープがバインディングされてしまう。
+
+<hr>
+
+**_Reference_** <br>
+
+1. [JavaScript] 화살표 함수와 this 바인딩 (https://velog.io/@padoling/JavaScript-%ED%99%94%EC%82%B4%ED%91%9C-%ED%95%A8%EC%88%98%EC%99%80-this-%EB%B0%94%EC%9D%B8%EB%94%A9)
