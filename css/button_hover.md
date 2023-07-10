@@ -1,6 +1,6 @@
 # Button の Hover 効果
 
-## :rabbit: What I learned
+## What I learned
 
 <p>
 
@@ -31,7 +31,7 @@ transition: all 0.2s;
 
 </p>
 
-## :rabbit: Code
+## Code
 
 - body element
 
