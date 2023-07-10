@@ -1,6 +1,6 @@
 # namespace
 C++標準ライブラリの全ての関数、オブジェクト等が定義された名前空間(namespace)。
-## :rabbit: namespaceを省略
+## namespaceを省略
 * namespaceに入っている特定の関数のみ使用
 ```C++
 #include "header1.h"
@@ -22,7 +22,7 @@ int main() {
     bar(); //header1の関数
 }
 ```
-## :rabbit: 名前なしのnamespace
+## 名前なしのnamespace
 namespaceの名前を設定しなかった場合、当namespaceに定義されたものは、ファイル内部でしか使えない。<br>
 `static`のような効果
 
