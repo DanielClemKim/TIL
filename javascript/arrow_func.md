@@ -20,7 +20,7 @@ Arrow 関数は`function`を使った関数と同じく動作するが、以下�
 - 必ず匿名関数として使わなければならない。
 - メソッドやコンストラクタとして使えない。
 
-## :rabbit: JavaScript 関数の this バインディング
+## JavaScript 関数の this バインディング
 
 this にバインディングされる値は以下のようだ。
 
@@ -62,7 +62,7 @@ const singer = {
 singer.foo1(); // Michael
 ```
 
-## :rabbit: Arrow 関数の this バインディング
+## Arrow 関数の this バインディング
 
 **Arrow 関数には this が存在しない** <br>
 
@@ -70,7 +70,7 @@ singer.foo1(); // Michael
 
 つまり、動的に this がバインディングされる`function`を使った関数宣言と異なり、宣言される時点での上位スコープが this にバインディングされる。
 
-## :rabbit: Arrow 関数を使ってはいけない時
+## Arrow 関数を使ってはいけない時
 
 ### メソッド
 
