@@ -1,6 +1,6 @@
 # Express
 
-## :rabbit: EJS を使う時、ディレクトリ設定
+## EJS を使う時、ディレクトリ設定
 
 ```javascript
 app.set("view engine", "ejs");
