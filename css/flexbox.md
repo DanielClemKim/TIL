@@ -2,7 +2,7 @@
 
 ページのサイズにより、柔軟にコンテンツのサイズが変わるものを作るために Flexbox を活用する。
 
-## :rabbit: Properties
+## Properties
 
 - **display: flex** <br>
   最初に入れておく
