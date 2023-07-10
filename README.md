@@ -22,8 +22,3 @@
 # C++
 
 - [namespace](./C++/namespace.md)
-
-# Algorithm
-
-- [Greedy](./algorithm/greedy.md)
-- [Implement](./algorithm/implement.md)
